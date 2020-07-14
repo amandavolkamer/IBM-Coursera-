@@ -10,7 +10,7 @@ Data Analysis with Python (House Sales),
 
 Data Visualization with Python (Data Visualization Topic Survey),
 
-Machine Learning with Python (Machine Learning Final Assignment,
+Machine Learning with Python (Machine Learning Final Assignment),
 
-Data Science Capstone Project (Ongoing - Capstone)
+Data Science Capstone Project (Capstone Folder)
 
