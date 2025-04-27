@@ -42,25 +42,25 @@ The goal was to apply data wrangling, exploratory data analysis, and machine lea
 ## 📚 Tasks Completed
 
 1. **Data Types**: Displayed data types for each column.
-   - ![Data Types Screenshot](path/to/data-types-screenshot.png)
+   - ![Data Types Screenshot](https://github.com/amandavolkamer/IBM-Data-Science-Coursera-Projects/blob/350388b0e3a0e8163c5641f92fb85028d69c715f/Housing-Analysis/Images/Data%20Types%20Screenshot.png)
 2. **Data Cleaning**: Dropped unnecessary columns and summarized dataset.
-   - ![Data Cleaning Screenshot](path/to/data-cleaning-screenshot.png)
+   - ![Data Cleaning Screenshot](https://github.com/amandavolkamer/IBM-Data-Science-Coursera-Projects/blob/350388b0e3a0e8163c5641f92fb85028d69c715f/Housing-Analysis/Images/Data%20Cleaning%20Screenshot.png)
 3. **Floor Value Analysis**: Counted unique floor values.
-   - ![Floor Value Analysis Screenshot](path/to/floor-value-analysis-screenshot.png)
+   - ![Floor Value Analysis Screenshot](https://github.com/amandavolkamer/IBM-Data-Science-Coursera-Projects/blob/350388b0e3a0e8163c5641f92fb85028d69c715f/Housing-Analysis/Images/Floor%20Value%20Analysis%20Screenshot.png)
 4. **Outlier Detection**: Created boxplots for waterfront property prices.
-   - ![Boxplot Screenshot](path/to/boxplot-screenshot.png)
+   - ![Boxplot Screenshot](https://github.com/amandavolkamer/IBM-Data-Science-Coursera-Projects/blob/350388b0e3a0e8163c5641f92fb85028d69c715f/Housing-Analysis/Images/Boxplot%20Screenshot.png)
 5. **Feature Correlation**: Visualized correlation between `sqft_above` and `price`.
-   - ![Correlation Plot Screenshot](path/to/correlation-plot-screenshot.png)
+   - ![Correlation Plot Screenshot](https://github.com/amandavolkamer/IBM-Data-Science-Coursera-Projects/blob/350388b0e3a0e8163c5641f92fb85028d69c715f/Housing-Analysis/Images/Correlation%20Plot%20Screenshot.png)
 6. **Simple Linear Regression**: Predicted `price` using `sqft_living` and calculated R².
-   - ![Simple Linear Regression Screenshot](path/to/simple-lr-screenshot.png)
+   - ![Simple Linear Regression Screenshot](https://github.com/amandavolkamer/IBM-Data-Science-Coursera-Projects/blob/350388b0e3a0e8163c5641f92fb85028d69c715f/Housing-Analysis/Images/Simple%20lr%20Screenshot.png)
 7. **Multiple Linear Regression**: Predicted `price` using multiple features.
-   - ![Multiple Linear Regression Screenshot](path/to/multiple-lr-screenshot.png)
+   - ![Multiple Linear Regression Screenshot](https://github.com/amandavolkamer/IBM-Data-Science-Coursera-Projects/blob/350388b0e3a0e8163c5641f92fb85028d69c715f/Housing-Analysis/Images/Multiple%20lr%20Screenshot.png)
 8. **Pipeline Construction**: Built data processing and modeling pipeline.
-   - ![Pipeline Screenshot](path/to/pipeline-screenshot.png)
+   - ![Pipeline Screenshot](https://github.com/amandavolkamer/IBM-Data-Science-Coursera-Projects/blob/350388b0e3a0e8163c5641f92fb85028d69c715f/Housing-Analysis/Images/Pipeline%20Screenshot.png)
 9. **Ridge Regression**: Applied Ridge regression (α = 0.1) and evaluated model.
-   - ![Ridge Regression Screenshot](path/to/ridge-regression-screenshot.png)
+   - ![Ridge Regression Screentshot](https://github.com/amandavolkamer/IBM-Data-Science-Coursera-Projects/blob/350388b0e3a0e8163c5641f92fb85028d69c715f/Housing-Analysis/Images/Ridge%20Regression%20Screenshot.png)
 10. **Polynomial Features**: Performed 2nd order polynomial transform and applied Ridge regression.
-    - ![Polynomial Regression Screenshot](path/to/polynomial-regression-screenshot.png)
+    - ![Polynomial Regression Screenshot](https://github.com/amandavolkamer/IBM-Data-Science-Coursera-Projects/blob/350388b0e3a0e8163c5641f92fb85028d69c715f/Housing-Analysis/Images/Polynomial%20Regression%20Screenshot.png)
 
 ## 🖼️ Visuals
 
