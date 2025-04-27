@@ -71,4 +71,4 @@ The projects in this repository cover various tools and technologies including:
 - Folium: Python library used for creating interactive maps.
 
 ### Additional Notes 
-The notebooks are designed for educational purposes and are intended to demonstrate my understanding of key data science concepts learned during the IBM Data Science course.
+The notebooks are designed for educational purposes and are intended to demonstrate my understanding of key data science concepts learned during the IBM Data Science course. Some notebooks (like the House Sales) may not render properly on GitHub due to missing widget states. These notebooks can be executed locally in a Jupyter environment for full functionality.
