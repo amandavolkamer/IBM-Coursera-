@@ -30,7 +30,7 @@ Here is a list of key files and their descriptions:
 - - **Data Visualization Topic Survey.ipynb**: Survey-based analysis and data visualization for understanding various data trends. 
 - **House_Sales.ipynb**: Data analysis on house sales data, including exploration and visualization.
 - **Machine Learning Final Assignment.ipynb**: A machine learning project covering a supervised learning model for predicting house prices.
-- **Loading Data and Viewing Data 2.ipynb**: 
+- **Loading Data and Viewing Data 2.ipynb**: An activity to extract data, create a dataframe, and visualize results through a dashboard.
 
 #### Visualizations
 The visualizations in this repository showcase crime and housing data from New York and Toronto. These images provide insights into crime rates, housing prices, and clustering of venues and neighborhoods.
