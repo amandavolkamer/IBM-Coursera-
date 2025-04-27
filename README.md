@@ -27,9 +27,10 @@ Here is a list of key files and their descriptions:
 #### Notebooks
 - **Capstone.ipynb**: The Jupyter notebook for the final capstone project. It includes the steps for data cleaning, analysis, and clustering.
 - **Segmenting & Clustering the Toronto Neighborhoods.ipynb**: Analysis of Toronto neighborhoods using clustering techniques.
+- - **Data Visualization Topic Survey.ipynb**: Survey-based analysis and data visualization for understanding various data trends. 
 - **House_Sales.ipynb**: Data analysis on house sales data, including exploration and visualization.
 - **Machine Learning Final Assignment.ipynb**: A machine learning project covering a supervised learning model for predicting house prices.
-- **Data Visualization Topic Survey.ipynb**: Survey-based analysis and data visualization for understanding various data trends.
+- **Loading Data and Viewing Data 2.ipynb**: 
 
 #### Visualizations
 The visualizations in this repository showcase crime and housing data from New York and Toronto. These images provide insights into crime rates, housing prices, and clustering of venues and neighborhoods.
