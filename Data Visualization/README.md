@@ -23,35 +23,32 @@ The goal was to apply data visualization techniques to summarize survey data and
 
 - `Topic_Survey_Visualization.ipynb`: Jupyter Notebook containing the full analysis, bar chart creation, and choropleth mapping
 - Datasets:
-  - `Topic_Survey_Data.csv`
-  - `SanFrancisco_2016_Crime_Data.csv`
-  - `SanFrancisco_GeoJSON.json`
+  - `Topic_Survey_Data.csv`: The survey results have been saved in a csv file and can be downloaded here: https://cocl.us/datascience_survey_data
+  - `SanFrancisco_2016_Crime_Data.csv`: This data can be downloaded here: https://cocl.us/sanfran_crime_dataset
+  - `SanFrancisco_GeoJSON.json`:  The JSN file can be downloaded here:  https://cocl.us/sanfran_geojson
 
 ## 📚 Tasks Completed
 
 ### Part 1: Survey Visualization
 
 1. **Load Survey Data**: Read CSV file into a pandas DataFrame.  
-   ![Survey DataFrame Screenshot](INSERT-LINK-HERE)
+   ![Survey DataFrame Screenshot](https://github.com/amandavolkamer/IBM-Data-Science-Coursera-Projects/blob/4c2e425fb7d87ef92a24e74d1c1bfc58dabfbf04/Data%20Visualization/Images/Load%20Dataframe%20Screenshot%20-%20Part%201.png)
 
-2. **Data Processing**: Sorted topics by "Very Interested" responses and calculated percentages.  
-   ![Processed Survey Data Screenshot](INSERT-LINK-HERE)
-
-3. **Bar Chart Creation**: Built a Matplotlib bar chart summarizing interest in data science topics.  
+2. **Bar Chart Creation**: Built a Matplotlib bar chart summarizing interest in data science topics.  
    - Custom colors used for different levels of interest.
    - Percentages labeled above each bar.
-   ![Survey Bar Chart Screenshot](INSERT-LINK-HERE)
+   ![Survey Bar Chart Screenshot](https://github.com/amandavolkamer/IBM-Data-Science-Coursera-Projects/blob/4c2e425fb7d87ef92a24e74d1c1bfc58dabfbf04/Data%20Visualization/Images/Survey%20Bar%20Chart%20Screenshot%20-%20Part%201.png)
 
 ### Part 2: Crime Choropleth Map
 
-4. **Load Crime Data**: Read San Francisco crime dataset and aggregated total crimes by neighborhood.  
-   ![Crime Data Aggregation Screenshot](INSERT-LINK-HERE)
+3. **Load Crime Data**: Read San Francisco crime dataset and aggregated total crimes by neighborhood.  
+   ![Crime Data Aggregation Screenshot](https://github.com/amandavolkamer/IBM-Data-Science-Coursera-Projects/blob/4c2e425fb7d87ef92a24e74d1c1bfc58dabfbf04/Data%20Visualization/Images/Crime%20Data%20Aggregation%20-%20Part%202.png)
 
-5. **Choropleth Map Creation**: Mapped crime counts geographically using Folium and a GeoJSON file.  
+4. **Choropleth Map Creation**: Mapped crime counts geographically using Folium and a GeoJSON file.  
    - Centered on San Francisco
    - Zoom level: 12
    - Color scale: `'YlOrRd'`
-   ![San Francisco Choropleth Map Screenshot](INSERT-LINK-HERE)
+   ![San Francisco Choropleth Map Screenshot](https://github.com/amandavolkamer/IBM-Data-Science-Coursera-Projects/blob/4c2e425fb7d87ef92a24e74d1c1bfc58dabfbf04/Data%20Visualization/Images/San%20Francisco%20Choropleth%20Map%20Screenshot%20-%20Part%202.png)
 
 ## 🖼️ Visuals
 
