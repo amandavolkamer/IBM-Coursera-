@@ -20,21 +20,21 @@ The goal was to apply data wrangling, basic data analysis, and visualization tec
 ## 📁 Files
 
 - `Analyzing_US_Economic_Data.ipynb`: Jupyter Notebook containing the full analysis and dashboard creation
-- Dataset: Cleaned GDP data (`Clean_gdp.csv`) and associated unemployment data (external)
+- Dataset: Cleaned GDP data (external) and associated unemployment data (external)
 
 ## 📚 Tasks Completed
 
 1. **GDP DataFrame Creation**: Loaded GDP data and displayed the first few rows.  
-   ![GDP DataFrame Screenshot](INSERT-LINK-HERE)
+   ![GDP DataFrame Screenshot](https://github.com/amandavolkamer/IBM-Data-Science-Coursera-Projects/blob/710139e004d35fd90ec60f00fd2b080715674da4/Data%20Analysis/Images/GDP%20Dataframe%20Screenshot.png)
 
 2. **Unemployment DataFrame Creation**: Loaded unemployment data and displayed the first few rows.  
-   ![Unemployment DataFrame Screenshot](INSERT-LINK-HERE)
+   ![Unemployment DataFrame Screenshot](https://github.com/amandavolkamer/IBM-Data-Science-Coursera-Projects/blob/710139e004d35fd90ec60f00fd2b080715674da4/Data%20Analysis/Images/Unemployment%20Dataframe%20Screenshot.png)
 
 3. **Filter Unemployment Data**: Displayed records where unemployment was greater than 8.5%.  
-   ![Filtered Unemployment Screenshot](INSERT-LINK-HERE)
+   ![Filtered Unemployment Screenshot](https://github.com/amandavolkamer/IBM-Data-Science-Coursera-Projects/blob/710139e004d35fd90ec60f00fd2b080715674da4/Data%20Analysis/Images/Filtered%20Unemployment%20Screenshot.png)
 
 4. **Dashboard Creation**: Built a simple dashboard showing trends between GDP and unemployment rates.  
-   ![Dashboard Screenshot](INSERT-LINK-HERE)
+   ![Dashboard Screenshot](https://github.com/amandavolkamer/IBM-Data-Science-Coursera-Projects/blob/710139e004d35fd90ec60f00fd2b080715674da4/Data%20Analysis/Images/Dashboard%20Screenshot.png)
 
 ## 🖼️ Visuals
 
